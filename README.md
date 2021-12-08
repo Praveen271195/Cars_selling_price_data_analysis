@@ -1,4 +1,4 @@
-<h1 align="center">Analytics on Car Selling Price 🚗 🚙 🚘</h1>
+<h1 align="center">Analytics on Car Selling Price 🚗 🛒 💲</h1>
 
 ## Purpose of Repository:
 The used cars market has grown rapidly in recent years and demand for passenger vehicles has encouraged the industry to collect enormous amounts of data. This document proposes an idea to use such a dataset for building a tool that can predict the selling price of a vehicle by using statistical techniques. This readme includes information and plan of actions to achieve the main goal of this project.
