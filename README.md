@@ -53,7 +53,7 @@ The dataset is sourced from a website called github. The original dataset includ
 4. Does the resale price of the car drop as its distance covered increases?
 
 Finding answers for the above questions will help me perform Exploratory Data Analysis to identify the causal relationship between the variables. Having this clarity would help me develop a multiple linear regression model that fits the data and will allow me to check if the fitted model has a higher explanatory power which could be interpreted by
-computing R 2 value.
+computing R2 value.
 
 ## Objective :
 The main goal of this project is to predict the selling price of a used car (selling_price) based on 4 regressors mentioned: vehicle_brand, year, engine_capacity, miles_driven.
